@@ -1,0 +1,32 @@
+
+.input {
+    background-color:snow;
+    margin-left: 15px;
+    width: 300px;
+}
+#form {
+    background-color: whitesmoke;
+    width: 370px;
+    height: 200px;
+}
+button:hover {
+    background-color:yellowgreen;
+}
+button {
+    width: 370px;
+}
+.label {
+    margin-left: 20px;
+}
+#container {
+    background-color: lavenderblush;
+    width: 370px;
+}
+#name, #surname, #phone {
+    font-style: italic;
+    margin-left: 15px;
+}
+#dane {
+    text-align: center;
+    font-weight: bold;
+}
